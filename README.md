@@ -78,6 +78,22 @@ npm run dev
 
 ## Screenshots
 
-- Dashboard: (placeholder)
-- AI Analysis: (placeholder)
-- Login: (placeholder)
+### Login
+
+![Login](assets/screenshots/login.png)
+
+### Dashboard
+
+| Light Mode | Dark Mode |
+|---|---|
+| ![Dashboard Light](assets/screenshots/dashboard-light.png) | ![Dashboard Dark](assets/screenshots/dashboard-dark.png) |
+
+### Internship List
+
+| Light Mode | Dark Mode |
+|---|---|
+| ![Internship List Light](assets/screenshots/internship-list-light.png) | ![Internship List Dark](assets/screenshots/internship-list-dark.png) |
+
+### AI Analysis
+
+![AI Analysis](assets/screenshots/ai-analysis.png)
