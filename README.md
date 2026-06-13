@@ -2,12 +2,6 @@
 
 A showcase repository that ties together the Backend, AI Service, and UI for an internship application tracking platform. This hub explains how the pieces fit and links to the dedicated repos for each service.
 
-## Repositories
-
-- Backend Core: https://github.com/hasanerzz/mail-analysis
-- AI Service: https://github.com/hasanerzz/mail-analysis-ai-service
-- Frontend UI: https://github.com/hasanerzz/mail-analysis-ui
-
 ## What This System Solves
 
 High-volume application emails are messy and inconsistent. This system normalizes those emails into structured records and surfaces them in a clean dashboard so users can track applications, statuses, and progress.
