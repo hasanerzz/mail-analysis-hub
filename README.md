@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mail Analysis
+# Internship Analysis
 
 **An AI-powered internship application tracker that builds itself from your Gmail inbox.**
 
